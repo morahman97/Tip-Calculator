@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/OcWq9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-Initially, I wanted to fourth segment to the segmented control UI to allow for custom percentage input.
+Initially, I wanted to create a fourth segment to the segmented control UI to allow for custom percentage input.
 However, I found it a bit complicated to implement since my approach was to generate an alert to input the custom percentage, but I had difficulty turning that input into a tangible percentage to work with.
 So alternatively, I made another text input similar to the bill to input a custom percentage and implemented the feature that way.
 
